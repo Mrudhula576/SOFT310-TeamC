@@ -1,0 +1,4 @@
+# Ignore intelliJ configuration
+./.idea
+# Ignore VSCode configuration
+./.vscode
