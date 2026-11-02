@@ -1,4 +1,5 @@
 # Ignore intelliJ configuration
 ./.idea
+./SOFT310-TeaamC.iml
 # Ignore VSCode configuration
 ./.vscode
